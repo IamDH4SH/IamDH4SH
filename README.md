@@ -11,7 +11,6 @@ I'm currently building projects to strengthen my skills in programming, backend 
 <p align="center">
   <img width="700" src="https://streak-stats.demolab.com?user=jose-seminario&theme=github-dark-blue&hide_border=true" />
 </p>
----
 
 ## 🚀 Tecnologías
 
