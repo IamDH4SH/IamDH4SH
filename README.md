@@ -14,7 +14,7 @@ Actualmente estoy construyendo proyectos para fortalecer mis habilidades en prog
 </p>
 
 <p align="center">
-  <img width="700" src="https://streak-stats.demolab.com?user=jose-seminario&theme=transparent&hide_border=true" />
+  <img width="700" src="https://streak-stats.demolab.com?user=jose-seminario&theme=github-dark-blue&hide_border=true" />
 </p>
 ---
 
