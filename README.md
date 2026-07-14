@@ -1,52 +1,55 @@
-# 👋 Hola, soy Jose Seminario (Dhash)
+# 👋 Hola, soy Jose Seminario
 
-### Software Engineer • AI • Cybersecurity • Backend Developer
+### 🎓 Systems Engineering Student | Backend Developer | AI & Cybersecurity Enthusiast
 
-Soy un desarrollador apasionado por la Ingeniería de Software, la Inteligencia Artificial y la Ciberseguridad. Actualmente construyo proyectos para fortalecer mis habilidades en desarrollo backend, seguridad informática y tecnologías de IA.
+Soy estudiante de Ingeniería de Sistemas con un gran interés por el desarrollo backend, la inteligencia artificial y la ciberseguridad.
+
+Actualmente estoy construyendo proyectos para fortalecer mis habilidades en programación, desarrollo de APIs, bases de datos y tecnologías utilizadas en entornos profesionales. Mi objetivo es aprender de forma constante y crear software de calidad siguiendo buenas prácticas.
 
 ---
 
-## 🚀 Tecnologías
+# 🚀 Tecnologías
 
 - 🐍 Python
 - ☕ Java
 - 🌐 JavaScript
 - 🗄️ SQL
 - 🐧 Linux
-- 🐳 Docker
 - 🌿 Git
 - ⚡ GitHub
 
 ---
 
-## 📚 Actualmente aprendiendo
+# 📚 Actualmente aprendiendo
 
 - FastAPI
+- Desarrollo de APIs REST
+- Docker
+- Inteligencia Artificial
 - Ciberseguridad Ofensiva
-- Seguridad en IA (LLM Security)
-- Docker y Kubernetes
 
 ---
 
-## 🎯 Objetivos 2026
+# 🎯 Objetivos 2026
 
-- ✅ Convertirme en Software Engineer.
-- ✅ Construir proyectos de nivel profesional.
-- ✅ Contribuir a Open Source.
-- ✅ Obtener certificaciones en IA y Ciberseguridad.
-
----
-
-## 📂 Próximos proyectos
-
-- 🔹 FastAPI REST API
-- 🔹 Password Manager
-- 🔹 Linux Automation Toolkit
-- 🔹 AI Resume Analyzer
-- 🔹 Cybersecurity Labs
+- ✅ Fortalecer mis habilidades como Backend Developer.
+- ✅ Construir proyectos completos y bien documentados.
+- ✅ Contribuir a proyectos Open Source.
+- ✅ Obtener experiencia práctica en desarrollo de software.
+- ✅ Conseguir mi primera oportunidad como desarrollador.
 
 ---
 
-## 📫 Contacto
+# 📂 Próximos proyectos
 
-- LinkedIn: www.linkedin.com/in/jaime-chuquipoma-seminario-b050b6b1
+- 🚀 FastAPI REST API
+- 🔐 Password Manager
+- 🐧 Linux Automation Toolkit
+- 🤖 AI Resume Analyzer
+- 🛡️ Cybersecurity Labs
+
+---
+
+# 📫 Contacto
+
+- 💼 LinkedIn: www.linkedin.com/in/jaime-chuquipoma-seminario-b050b6b1
