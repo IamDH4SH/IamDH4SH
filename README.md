@@ -56,7 +56,7 @@ Here are the projects I'll be developing as part of my learning journey in backe
 | 🚀 FastAPI REST API | ⏳ Planned | FastAPI, SQL |
 | 🔐 Password Manager | ⏳ Planned | Python |
 | 🐧 Linux Automation Toolkit | ⏳ Planned | Bash, Python |
-| 🛡️ Cybersecurity Labs | ⏳ Planned | Linux |
+| 🛡️ Cybersecurity Learning Lab | ⏳ Planned | Linux |
 
 ---
 
