@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hola, soy Jose Seminario (Dhash)
 
-<!--
-**IamDH4SH/IamDH4SH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Engineer | AI | Cybersecurity | Backend Developer
 
-Here are some ideas to get you started:
+Soy un desarrollador apasionado por la Ingeniería de Software, la Inteligencia Artificial y la Ciberseguridad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy construyendo proyectos reales para fortalecer mis habilidades en desarrollo backend, seguridad informática y tecnologías de IA.
+
+---
+
+## 🚀 Tecnologías
+
+- Python
+- Java
+- JavaScript
+- SQL
+- Linux
+- Docker
+- Git
+- GitHub
+
+---
+
+## 📚 Actualmente aprendiendo
+
+- Backend con FastAPI
+- Ciberseguridad Ofensiva
+- Seguridad en IA (LLM Security)
+- Docker y Kubernetes
+
+---
+
+## 🎯 Objetivos
+
+- Construir software de calidad.
+- Contribuir a proyectos Open Source.
+- Obtener certificaciones en IA y Ciberseguridad.
+- Trabajar como Software Engineer.
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: https://www.linkedin.com/in/jaime-chuquipoma-seminario-b050b6b1
