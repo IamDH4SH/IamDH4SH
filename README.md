@@ -6,11 +6,11 @@ Soy estudiante de Ingeniería de Sistemas con un gran interés por el desarrollo
 
 Actualmente estoy construyendo proyectos para fortalecer mis habilidades en programación, desarrollo de APIs, bases de datos y tecnologías utilizadas en entornos profesionales. Mi objetivo es aprender de forma constante y crear software de calidad siguiendo buenas prácticas.
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jose-seminario&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-seminario&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jose-seminario&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jose-seminario&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
