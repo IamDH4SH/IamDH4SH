@@ -9,11 +9,6 @@ Actualmente estoy construyendo proyectos para fortalecer mis habilidades en prog
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jose-seminario&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-seminario&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
-
-<p align="center">
   <img width="700" src="https://streak-stats.demolab.com?user=jose-seminario&theme=github-dark-blue&hide_border=true" />
 </p>
 ---
