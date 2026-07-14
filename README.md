@@ -6,6 +6,17 @@ Soy estudiante de Ingeniería de Sistemas con un gran interés por el desarrollo
 
 Actualmente estoy construyendo proyectos para fortalecer mis habilidades en programación, desarrollo de APIs, bases de datos y tecnologías utilizadas en entornos profesionales. Mi objetivo es aprender de forma constante y crear software de calidad siguiendo buenas prácticas.
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jose-seminario&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-seminario&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jose-seminario&theme=github-dark&hide_border=true" />
+</p>
+
 ---
 
 ## 🚀 Tecnologías
@@ -40,13 +51,19 @@ Actualmente estoy construyendo proyectos para fortalecer mis habilidades en prog
 
 ---
 
-# 📂 Próximos proyectos
+## 🚀 Featured Projects
 
-- 🚀 FastAPI REST API
-- 🔐 Password Manager
-- 🐧 Linux Automation Toolkit
-- 🤖 AI Resume Analyzer
-- 🛡️ Cybersecurity Labs
+> 🚧 Actualmente estoy construyendo mi portafolio de proyectos.
+
+Aquí encontrarás los proyectos que desarrollaré durante mi proceso de aprendizaje en Backend, Inteligencia Artificial y Ciberseguridad.
+
+| Proyecto | Estado | Tecnologías |
+|----------|:------:|------------|
+| 🐍 Python Fundamentals | 🚧 En desarrollo | Python |
+| 🚀 FastAPI REST API | ⏳ Planificado | FastAPI, SQL |
+| 🔐 Password Manager | ⏳ Planificado | Python |
+| 🐧 Linux Automation Toolkit | ⏳ Planificado | Bash, Python |
+| 🛡️ Cybersecurity Labs | ⏳ Planificado | Linux |
 
 ---
 
