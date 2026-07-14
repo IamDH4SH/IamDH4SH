@@ -9,14 +9,13 @@ Actualmente estoy construyendo proyectos para fortalecer mis habilidades en prog
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jose-seminario&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jose-seminario&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jose-seminario&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jose-seminario&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jose-seminario&theme=github-dark&hide_border=true" />
+  <img width="700" src="https://streak-stats.demolab.com?user=jose-seminario&theme=transparent&hide_border=true" />
 </p>
-
 ---
 
 ## 🚀 Tecnologías
