@@ -1,10 +1,10 @@
-# 👋 Hola, soy Jose Seminario
+# 👋 Hi, I'm Jose Seminario
 
-### 🎓 Systems Engineering Student | Backend Developer | AI & Cybersecurity Enthusiast
+### 🎓 Systems Engineering Student | Aspiring Backend Developer | AI & Cybersecurity Enthusiast
 
-Soy estudiante de Ingeniería de Sistemas con un gran interés por el desarrollo backend, la inteligencia artificial y la ciberseguridad.
+I'm a Systems Engineering student with a strong interest in backend development, artificial intelligence, and cybersecurity.
 
-Actualmente estoy construyendo proyectos para fortalecer mis habilidades en programación, desarrollo de APIs, bases de datos y tecnologías utilizadas en entornos profesionales. Mi objetivo es aprender de forma constante y crear software de calidad siguiendo buenas prácticas.
+I'm currently building projects to strengthen my skills in programming, backend development, APIs, databases, and software engineering. My goal is to continuously learn, build high-quality software, and follow industry best practices.
 
 ## 📈 GitHub Stats
 
@@ -25,42 +25,42 @@ Actualmente estoy construyendo proyectos para fortalecer mis habilidades en prog
 
 ---
 
-# 📚 Actualmente aprendiendo
+## 📚 Currently Learning
 
 - FastAPI
-- Desarrollo de APIs REST
+- REST API Development
 - Docker
-- Inteligencia Artificial
-- Ciberseguridad Ofensiva
+- Artificial Intelligence
+- Offensive Cybersecurity
 
 ---
 
-# 🎯 Objetivos 2026
+## 🎯 Goals for 2026
 
-- ✅ Fortalecer mis habilidades como Backend Developer.
-- ✅ Construir proyectos completos y bien documentados.
-- ✅ Contribuir a proyectos Open Source.
-- ✅ Obtener experiencia práctica en desarrollo de software.
-- ✅ Conseguir mi primera oportunidad como desarrollador.
+- ✅ Strengthen my backend development skills.
+- ✅ Build complete and well-documented projects.
+- ✅ Contribute to open-source projects.
+- ✅ Gain hands-on experience in software development.
+- ✅ Land my first opportunity as a Software Developer.
 
 ---
 
 ## 🚀 Featured Projects
 
-> 🚧 Actualmente estoy construyendo mi portafolio de proyectos.
+> 🚧 I'm currently building my software development portfolio.
 
-Aquí encontrarás los proyectos que desarrollaré durante mi proceso de aprendizaje en Backend, Inteligencia Artificial y Ciberseguridad.
+Here are the projects I'll be developing as part of my learning journey in backend development, artificial intelligence, and cybersecurity.
 
-| Proyecto | Estado | Tecnologías |
-|----------|:------:|------------|
-| 🐍 Python Fundamentals | 🚧 En desarrollo | Python |
-| 🚀 FastAPI REST API | ⏳ Planificado | FastAPI, SQL |
-| 🔐 Password Manager | ⏳ Planificado | Python |
-| 🐧 Linux Automation Toolkit | ⏳ Planificado | Bash, Python |
-| 🛡️ Cybersecurity Labs | ⏳ Planificado | Linux |
+| Project | Status | Technologies |
+|---------|:------:|--------------|
+| 🐍 Python Fundamentals | 🚧 In Progress | Python |
+| 🚀 FastAPI REST API | ⏳ Planned | FastAPI, SQL |
+| 🔐 Password Manager | ⏳ Planned | Python |
+| 🐧 Linux Automation Toolkit | ⏳ Planned | Bash, Python |
+| 🛡️ Cybersecurity Labs | ⏳ Planned | Linux |
 
 ---
 
-# 📫 Contacto
+## 📫 Contact
 
 - 💼 LinkedIn: www.linkedin.com/in/jaime-chuquipoma-seminario-b050b6b1
